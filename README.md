@@ -1,7 +1,10 @@
 # Rapid-UPI
 
-due to some issues , I had to push my code again 
-will update it shortly
+
+It is a React-based application designed to generate and download UPI (Unified Payments Interface) QR codes for seamless digital payments. Users input their UPI ID and payment amount into a form, which, upon validation, produces a corresponding UPI payment URL. This URL is then converted into a QR code using the qrious library and displayed on the screen. The application also provides an option to download the QR code as a PNG file using the html2canvas library. Ideal for creating easily scannable payment links, this project simplifies the process of receiving payments by allowing users to generate and share personalized payment QR codes efficiently.
+
+(due to some issues , I had to push my code again 
+will update it shortly)
 
 
 This is how it looks:
